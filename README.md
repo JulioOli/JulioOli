@@ -1,5 +1,4 @@
-# ⊙ 
-## Julio Oliveira Santana - Desenvolvedor Full Stack | Cientista de Dados | Low-Level Enthusiast
+ ## Julio Oliveira Santana - Desenvolvedor Full Stack | Cientista de Dados | Low-Level Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/julio-oliveira-santana-855817207/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:juliooliveirasantana.b3@gmail.com)
@@ -44,3 +43,4 @@
 - 🐧 Contribuo para projetos open-source de ferramentas para desenvolvedores
 - 📚 Atualmente aprendendo: ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
+⊙
