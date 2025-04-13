@@ -29,14 +29,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 
-## 🚀 Projetos em Destaque
-
-| Projeto | Tecnologias | Descrição |
-|---------|-------------|-----------|
-| [Sistema de Recomendação](link) | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E) | Sistema ML para recomendações personalizadas |
-| [Compiler em C++](link) | ![C++](https://img.shields.io/badge/-C++-00599C) ![Assembly](https://img.shields.io/badge/-Assembly-8E0E00) | Compiler didático para linguagem acadêmica |
-| [Dashboard React](link) | ![React](https://img.shields.io/badge/-React-61DAFB) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E) | Visualização de dados em tempo real |
-
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
