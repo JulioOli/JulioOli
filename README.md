@@ -1,4 +1,4 @@
-# 👨‍💻 [Seu Nome] - Desenvolvedor Full Stack | Cientista de Dados | Low-Level Enthusiast
+# ⊙ Julio Oliveira Santana - Desenvolvedor Full Stack | Cientista de Dados | Low-Level Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seu-perfil)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:seu-email@gmail.com)
@@ -49,4 +49,4 @@
 ## 🔥 Curiosidades
 - 💡 Adoro explorar a relação entre high-level (React/Python) e low-level (C/ASM)
 - 🐧 Contribuo para projetos open-source de ferramentas para desenvolvedores
-- 📚 Atualmente aprendendo: [Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+- 📚 Atualmente aprendendo: [Scikit-Learn](![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white))
