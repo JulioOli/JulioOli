@@ -41,5 +41,5 @@
 ## 🔥 Curiosidades
 - 💡 Adoro ciência de dados, estou sempre buscando aprender novas tecnologias e me aprimorar
 - 🐧 Contribuo para projetos open-source de ferramentas para desenvolvedores
-- 📚 Atualmente aprendendo: ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- 📚 Atualmente aprendendo: ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
