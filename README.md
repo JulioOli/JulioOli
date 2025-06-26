@@ -40,7 +40,7 @@
 
 ## 🔥 Curiosidades
 - 💡 Adoro ciência de dados, estou sempre buscando aprender novas tecnologias e me aprimorar
-- 🐧 Contribuo para projetos open-source de ferramentas para desenvolvedores
+- 🐧 Já contribuí um pouco para projetos open-source de ferramentas para desenvolvedores
 - 🎓 Ministrei um minicurso de introdução a python para análise de dados na Unesp durante a semana da computação nos anos de 2023, 2024 e 2025
 - 📚 Atualmente aprendendo: ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
