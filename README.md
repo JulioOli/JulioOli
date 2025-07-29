@@ -33,22 +33,16 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<!-- Troféus -->
-[![Trophies](https://github-profile-trophy.vercel.app/?username=JulioOli&theme=discord&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- Gráfico de atividade -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JulioOli&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-<!-- Estatísticas Gerais -->
-<img src="https://github-readme-stats.vercel.app/api?username=JulioOli&show_icons=true&theme=dracula&hide_border=true" height="165" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioOli&layout=compact&theme=dracula&hide_border=true" height="165" />
-
-<!-- Contribuições contínuas -->
-<img src="https://streak-stats.demolab.com?user=JulioOli&theme=dracula&hide_border=true" height="165"/>
+<!-- Estilo dos summary cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JulioOli&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JulioOli&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulioOli&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulioOli&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JulioOli&theme=github_dark&utcOffset=-3" />
 
 </div>
 
@@ -57,8 +51,8 @@
 ## 🔥 Curiosidades
 
 - 💡 Adoro ciência de dados e estou sempre aprendendo novas tecnologias.
-- 🐧 Tenho contribuído para projetos open-source voltados para desenvolvedores.
-- 🎓 Ministrei um minicurso de introdução à análise de dados com Python na UNESP durante a Semana da Computação (2023, 2024, 2025).
+- 🐧 Contribuo para projetos open-source voltados para desenvolvedores.
+- 🎓 Ministrei um minicurso de introdução à análise de dados com Python na UNESP durante a Semana da Computação (2023, 2024 e 2025).
 - 📚 Atualmente aprendendo:  
   ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
