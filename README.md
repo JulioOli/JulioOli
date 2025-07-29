@@ -35,24 +35,19 @@
 <div align="center">
 
 <!-- Linha 1: Linguagens -->
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JulioOli&theme=github_dark" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JulioOli&theme=github_dark" /></td>
-  </tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JulioOli&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JulioOli&theme=github_dark" />
+
+<br/>
 
 <!-- Linha 2: Stats e Perfil -->
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulioOli&theme=github_dark" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulioOli&theme=github_dark" /></td>
-  </tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulioOli&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulioOli&theme=github_dark" />
 
-<!-- Linha 3: Horário produtivo -->
+<br/>
+
+<!-- Linha 3: Horários produtivos -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JulioOli&theme=github_dark&utcOffset=-3" />
-
 
 </div>
 
