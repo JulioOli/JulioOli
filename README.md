@@ -1,6 +1,6 @@
 ## Julio Oliveira Santana - Desenvolvedor Full Stack | Cientista de Dados | Low-Level Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/julio-oliveira-santana-855817207/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/julio-oliveira-santana-855817207/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:juliooliveirasantana.b3@gmail.com)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim)](https://github.com/JulioOli/nvim-config)
 
@@ -33,14 +33,16 @@
 
 <div align="center">
 
-![Top Languages by Repo](images/top_languages_by_repo.png)
-
-![Contributions in the last year](images/contributions_last_year.png)
+![Seu Status](https://github-readme-stats.vercel.app/api?username=JulioOli&show_icons=true&theme=dracula&hide_border=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioOli&layout=compact&theme=dracula&hide_border=true)
 
 </div>
 
 ## 🔥 Curiosidades
 - 💡 Adoro ciência de dados, estou sempre buscando aprender novas tecnologias e me aprimorar
+- 🐧 Contribuo para projetos open-source de ferramentas para desenvolvedores
 - 🐧 Já contribuí um pouco para projetos open-source de ferramentas para desenvolvedores
 - 🎓 Ministrei um minicurso de introdução a python para análise de dados na Unesp durante a semana da computação nos anos de 2023, 2024 e 2025
 - 📚 Atualmente aprendendo: ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+⊙
