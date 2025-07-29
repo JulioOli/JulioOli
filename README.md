@@ -32,24 +32,27 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<!-- Gráficos de linguagens -->
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JulioOli&theme=github_dark" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JulioOli&theme=github_dark" /></td>
+  </tr>
+</table>
 
-<!-- Linha 1: Linguagens -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JulioOli&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JulioOli&theme=github_dark" />
+<!-- Stats e detalhes do perfil -->
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulioOli&theme=github_dark" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulioOli&theme=github_dark" /></td>
+  </tr>
+</table>
 
-<br/>
+<!-- Horário de commits -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JulioOli&theme=github_dark&utcOffset=-3" />
+</p>
 
-<!-- Linha 2: Stats e Perfil -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulioOli&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulioOli&theme=github_dark" />
-
-<br/>
-
-<!-- Linha 3: Horários produtivos -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JulioOli&theme=github_dark&utcOffset=-3" />
-
-</div>
 
 
 ## 🔥 Curiosidades
