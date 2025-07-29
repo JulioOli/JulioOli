@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/julio-oliveira-santana-855817207/](https://www.linkedin.com/in/julio-oliveira-santana-855817207/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:juliooliveirasantana.b3@gmail.com)
 
----
 
 ## 🛠️ Stack Tecnológica
 
@@ -30,7 +29,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 
----
 
 ## 📊 Estatísticas do GitHub
 
@@ -45,7 +43,6 @@
 
 </div>
 
----
 
 ## 🔥 Curiosidades
 
@@ -55,4 +52,3 @@
 - 📚 Atualmente aprendendo:  
   ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
----
