@@ -33,20 +33,19 @@
 ## 📊 Estatísticas do GitHub
 
 <!-- Gráficos de linguagens -->
-<table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JulioOli&theme=github_dark" /></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JulioOli&theme=github_dark" /></td>
   </tr>
-</table>
+
 
 <!-- Stats e detalhes do perfil -->
-<table>
+
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulioOli&theme=github_dark" /></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulioOli&theme=github_dark" /></td>
   </tr>
-</table>
+
 
 <!-- Horário de commits -->
 <p align="center">
