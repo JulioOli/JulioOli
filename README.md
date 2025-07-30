@@ -1,6 +1,6 @@
 ## Julio Oliveira Santana - Cientista de Dados | Desenvolvedor Front | Tech Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/julio-oliveira-santana-855817207/](https://www.linkedin.com/in/julio-oliveira-santana-855817207/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/julio-oliveira-santana-855817207/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:juliooliveirasantana.b3@gmail.com)
 
 
