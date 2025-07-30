@@ -32,26 +32,29 @@
 
 ## 📊 Estatísticas do GitHub
 
-<!-- Gráficos de linguagens -->
+<div align="center">
+
+<!-- Linha 1: Linguagens -->
+<table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JulioOli&theme=github_dark" /></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JulioOli&theme=github_dark" /></td>
   </tr>
+</table>
 
-
-<!-- Stats e detalhes do perfil -->
-
+<!-- Linha 2: Stats e Perfil -->
+<table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulioOli&theme=github_dark" /></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulioOli&theme=github_dark" /></td>
   </tr>
+</table>
+
+<!-- Linha 3: Horário produtivo -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JulioOli&theme=github_dark&utcOffset=-3" />
 
 
-<!-- Horário de commits -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JulioOli&theme=github_dark&utcOffset=-3" />
-</p>
-
+</div>
 
 
 ## 🔥 Curiosidades
@@ -61,4 +64,3 @@
 - 🎓 Ministrei um minicurso de introdução à análise de dados com Python na UNESP durante a Semana da Computação (2023, 2024 e 2025).
 - 📚 Atualmente aprendendo:  
   ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
