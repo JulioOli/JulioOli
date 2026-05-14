@@ -31,8 +31,6 @@
 
 ## 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas do GitHub
-
 <div align="center">
 
   <!-- Linha 1: Linguagens -->
@@ -43,8 +41,6 @@
 
   <!-- Linha 2: Stats e Perfil -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulioOli&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulioOli&theme=github_dark" />
-
   <br><br>
 
   <!-- Linha 3: Horário produtivo -->
