@@ -44,9 +44,6 @@
 
   <br><br>
 
-  <!-- Linha 3: Horário produtivo -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JulioOli&theme=github_dark&utcOffset=-3" />
-
 </div>
 
 
